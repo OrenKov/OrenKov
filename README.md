@@ -1,16 +1,16 @@
-### Hi there 👋
+## Who Am I?
+- B.Sc Computer Science Student (2nd year) | Jerusalem
+- Looking for projects to get involved in
 
-<!--
-**OrenKov/OrenKov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Coding Experience
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&labelColor=black) 
 
-Here are some ideas to get you started:
+![numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&labelColor=black) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&labelColor=black) 
+
+![C](https://img.shields.io/badge/-C,_C++-A8B9CC?style=flat&logo=c&labelColor=black&) 
+
+## Contact Me
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oren-kovartovsky-7805231b5/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:orenkovartovsky@gmail.com)

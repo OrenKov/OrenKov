@@ -1,4 +1,4 @@
-## Who Am I?
+## About Me
 B.Sc Computer Science Student (2nd year) | Living in Jerusalem
 
 ## Coding Experience

@@ -3,9 +3,7 @@
 - Looking for projects to get involved in
 
 ## Coding Experience
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&labelColor=black) 
-
-![numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&labelColor=black) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&labelColor=black)  ![numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&labelColor=black) 
 
 ![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&labelColor=black) 
 

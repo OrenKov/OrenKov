@@ -1,5 +1,5 @@
 ## About Me
-B.Sc Computer Science Student (2nd year) | Living in Jerusalem
+Software Engineer | Living in Givatayim
 
 ## Coding Experience
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&labelColor=black)  ![numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&labelColor=black) 
